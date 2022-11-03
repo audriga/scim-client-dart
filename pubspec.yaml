@@ -1,0 +1,13 @@
+name: scim_client_dart
+version: 0.0.1
+description: SCIM client
+publish_to: none
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  http: ^0.13.0
+  args: ^1.0.0
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+
